@@ -14,7 +14,7 @@ International License][cc-by-sa].
 
 ## Assembly (Snap on inlet/outlet fitting and blow out valve snap in plug)
 
-![]([https://i.imgur.com/mCLPX1V.png)
+![](https://i.imgur.com/mCLPX1V.png)
 ![](!https://i.imgur.com/mxR2WiK.png)
 
 The Full-Face-Filtered-Mask has been deigned to utilize the Intersurgical 1745000 or similar 22 mm tapered inlet style filter fitted to the Hydro-Swim Seaclear Vista Snorkeling Mask manufactured by Bestway www.bestwaycorp.com/support.
