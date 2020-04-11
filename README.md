@@ -14,7 +14,7 @@ International License][cc-by-sa].
 
 ## Assembly (Snap on inlet/outlet fitting and blow out valve snap in plug)
 
-![](https://i.imgur.com/mCLPX1V.png)
+![](https://i.imgur.com/O0NErhR.jpg)
 ![](!https://i.imgur.com/mxR2WiK.png)
 
 The Full-Face-Filtered-Mask has been deigned to utilize the Intersurgical 1745000 or similar 22 mm tapered inlet style filter fitted to the Hydro-Swim Seaclear Vista Snorkeling Mask manufactured by Bestway www.bestwaycorp.com/support.
@@ -24,3 +24,8 @@ I have provided .stl files for quick access to 3d printing. Additionally I have 
 The blow out valve plug is optional as the valve when working correctly is designed to only allow air to exit however I have included a plug design as will to block the front blowout port. It is a snap in design which when installed directs all airflow in and out the filtered port.
 
 The project commenced in response to identifiable shortages in ventilators and related equipment during the outbreak of COVID 19d. 
+
+![](https://i.imgur.com/HOSygkY.jpg)
+![](https://i.imgur.com/3Fs9B9K.jpg)
+![](https://i.imgur.com/ly6dLwF.jpg)
+![](https://i.imgur.com/1DlLuNq.jpg)
