@@ -1,5 +1,6 @@
 # Full-Face-Filtered-Mask
-Adapt a Hydro-Swim mask to accept a Intersurgical 1745000 filter
+Adapt a Hydro-Swim mask to accept a Intersurgical 1745000 filter or similar "22M" equipped filters.
+https://www.intersurgical.com/products/airway-management/breathing-filters-hmes-and-hmefs
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
